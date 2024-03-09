@@ -1,0 +1,8 @@
+# node_modules/**
+# public/**
+# **/node_modules
+*.json
+*.html
+*rc.js
+**.svg
+*.css
